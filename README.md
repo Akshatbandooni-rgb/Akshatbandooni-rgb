@@ -1,11 +1,9 @@
-👨‍💻 Web Developer | MERN Enthusiast | React Explorer
+👨‍💻 Web Developer | MEAN Enthusiast | React Explorer
 
-🚀 Building awesome things with JavaScript, React, and the MERN stack
-🌱 Currently leveling up in React.js (hooks, state, and all that good stuff!)
-🤝 Looking to collaborate on MERN projects—let’s build something cool together!
-📫 Reach me at akshatbandooni333@gmail.com
-
-d(C)/dx = 0, but trust me, it's a high constant!
+-🚀 Building awesome things with JavaScript, React, and the MERN stack
+-🌱 Currently leveling up in React.js (hooks, state, and all that good stuff!)
+-🤝 Looking to collaborate on MERN projects—let’s build something cool together!
+-📫 Reach me at akshatbandooni333@gmail.com
 
 <!---
 Akshatbandooni-rgb/Akshatbandooni-rgb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
