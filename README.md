@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Akshatbandooni-rgb
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on any MERN Project
-- 📫 How to reach me akshatbandooni333@gmail.com
+👨‍💻 Web Developer | MERN Enthusiast | React Explorer
+
+🚀 Building awesome things with JavaScript, React, and the MERN stack
+🌱 Currently leveling up in React.js (hooks, state, and all that good stuff!)
+🤝 Looking to collaborate on MERN projects—let’s build something cool together!
+📫 Reach me at akshatbandooni333@gmail.com
+
+d(C)/dx = 0, but trust me, it's a high constant!
 
 <!---
 Akshatbandooni-rgb/Akshatbandooni-rgb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
