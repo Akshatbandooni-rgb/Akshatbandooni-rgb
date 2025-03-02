@@ -1,11 +1,27 @@
-👨‍💻 Web Developer | MEAN Enthusiast | React Explorer
+# 🚀 Hey, I'm Akshat Bandooni!  
 
--🚀 Building awesome things with JavaScript, React, and the MERN stack
--🌱 Currently leveling up in React.js (hooks, state, and all that good stuff!)
--🤝 Looking to collaborate on MERN projects—let’s build something cool together!
--📫 Reach me at akshatbandooni333@gmail.com
+### 👨‍💻 Code Whisperer | Bug Exterminator 
 
-<!---
-Akshatbandooni-rgb/Akshatbandooni-rgb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 **Turning caffeine into clean code and ideas into reality.**  
+
+🔹 **JavaScript Enthusiast**—because who needs sleep when you have async/await?  
+🔹 **React Explorer**—hooks, state, and components are my playground.  
+🔹 **MERN Fanatic**—MongoDB, Express, React, Node.js… basically my comfort zone.  
+🔹 **Bug Hunter**—if it’s broken, I’ll fix it (or pretend it’s a feature).  
+
+---
+
+### 🛠️ My Tech Arsenal  
+- **Frontend:** Angular , React.js (when Angular lets me down)  
+- **Backend:** Node.js, Express.js (because PHP and I have trust issues)  
+- **Database:** MongoDB, Firebase (SQL? Maybe later)  
+- **Version Control:** Git, GitHub (because commit history matters!)  
+- **Other:** REST APIs, WebSockets, and the occasional Stack Overflow magic  
+
+---
+
+### 📬 Wanna Build Something Cool?  
+📧 **Email:** akshatbandooni333@gmail.com  
+💼 **LinkedIn:** Akshat Bandooni(https://www.linkedin.com/in/akshatbandooni/)  
+
+⚡ **Motto:** *Keep coding, keep breaking, keep fixing!* 😎  
