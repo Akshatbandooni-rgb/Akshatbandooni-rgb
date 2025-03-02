@@ -6,7 +6,7 @@
 
 🔹 **JavaScript Enthusiast**—because who needs sleep when you have async/await?  
 🔹 **React Explorer**—hooks, state, and components are my playground.  
-🔹 **MERN Fanatic**—MongoDB, Express, React, Node.js… basically my comfort zone.  
+🔹 **MEAN Fanatic**—MongoDB, Express, Angular, Node.js… basically my comfort zone.  
 🔹 **Bug Hunter**—if it’s broken, I’ll fix it (or pretend it’s a feature).  
 
 ---
